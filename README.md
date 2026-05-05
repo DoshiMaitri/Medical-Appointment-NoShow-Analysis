@@ -16,13 +16,6 @@ to flag high-risk appointments.
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-## Project Structure
-Medical-Appointment-NoShow-Analysis/
-│
-├── Medical_Appointments_Data_EDA.ipynb   # Main analysis notebook
-├── Data.csv                               # Dataset
-└── README.md
-
 ## Key Findings
 - Patients with **longer waiting times (7+ days)** are significantly more likely 
   to miss their appointments
